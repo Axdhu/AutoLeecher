@@ -45,7 +45,7 @@ virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 # <Create conf.py appropriately>
-python3 -m apdbot
+python3 -m tobrot
 ```
 
 ### an example for creating conf.py 👇
@@ -152,7 +152,7 @@ class Config(Config):
 
 
 ## Credits, and Thanks to
-* [Me](https://telegram.dog/APDBUGS)
+* [Omkar47](https://github.com/Omkar47/AutoLeecher)
 * [SPECHIDE](https://github.com/SpEcHIDe/PublicLeech)
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
