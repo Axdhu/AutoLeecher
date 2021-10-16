@@ -152,6 +152,7 @@ class Config(Config):
 
 
 ## Credits, and Thanks to
+* [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 * [Omkar47](https://github.com/Omkar47/AutoLeecher)
 * [SPECHIDE](https://github.com/SpEcHIDe/PublicLeech)
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
